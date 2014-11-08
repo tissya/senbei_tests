@@ -1,3 +1,6 @@
-public senbei_test{
-  かな子はかわいいなあ
-  }
+登録よろ
+わからんかったらgit ssh　公開鍵とかで調べて
+下のが鍵なので1行全部コピーして貼り付けて、設定の仕方はLINEに貼ったURLに書いているし
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCZe3dWipFQia2OnUYC4uhBVOvIGn4YlIWRttNYnuG/nXXA2lYP1ZkGiuZJ03fKorm/kAeYw3VL4OHKMnMeOgFtl5nQaM4jdluaRlzefofo/za6f1cNWKsyeFpaUcnrbIuVSN3mPvycuL2l/tlhA8GhLPNoQ5lo3E9Z1FU0/XglGUxnVcc6oYQfBpYT9qA+wRovkmSDl/0wPa87Oe4izYCIoyqc5xCrw9+6hHhABx8A+angQsBZxqdyzzl+0uj4H8Om6BZWrZlWOZiKER0d7Nbxw278cbruTHE3XLQeNP1Qn65FzvGM+KK91Pglui2gnzFhF9hYFzLH8o/ld8WLBtlX nameko816.07@gmail.com
