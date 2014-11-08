@@ -1,0 +1,2 @@
+public senbei_test{
+  }
